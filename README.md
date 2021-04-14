@@ -22,7 +22,5 @@ As I continue my studies in Computer Science Engineering, I will do my best to i
 <a href="https://github.com/AlainMgz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlainMgz&langs_count=3&theme=react&exclude_repo=Yato" />
 </a>
-<a href="https://github.com/AlainMgz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlainMgz&count_private=true&show_icons=true&theme=react&hide=issues" />
-</a>
+
 
