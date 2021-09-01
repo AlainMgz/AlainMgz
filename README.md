@@ -4,7 +4,7 @@
 ***
 #### Studying Mathematics in Paris, software developer in the making...
 
-Currently learning Haskell and specifically Plutus programming thanks to the [Plutus Pioneer Program](https://developers.cardano.org/en/plutus-pioneer-program/). I truly believe that blockchain technology can change our world for the better. Cardano's peer-reviewed and scientific rigour makes it a prime candidate for implementing blockchain in various sectors where our current models are deprecated.
+Senior Blockchain Engineer at [Outlaw.io](https://outlaw.io), BS Student at Sorbonne University. I truly believe that blockchain technology can change our world for the better. Cardano's peer-reviewed and scientific rigour makes it a prime candidate for implementing blockchain in various sectors where our current models are deprecated.
 
 I'm also very interested in Python programming, it offers a wide range of uses (back-end development, AI, ML, Data Science, ...) with a simple syntax and a support on every platform. My main project is a blockchain coded entirely in Python, the Coniunctum Cryptocurrency.
 
