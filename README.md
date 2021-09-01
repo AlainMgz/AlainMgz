@@ -10,7 +10,7 @@ I'm also very interested in Python programming, it offers a wide range of uses (
 
 I also breifly played with web development and C++ programming, as you can see in my repositories (Yato Network is a web-app social media and ClassGenerator is a coding helper for C++). 
 
-As I continue my studies in Computer Science Engineering, I will do my best to improve my programming skills, especially in Networking and Blockchain technology.
+As I continue my studies in Computer Science, I will do my best to improve my programming skills, especially in Networking and Blockchain technology.
 
 ***
 
