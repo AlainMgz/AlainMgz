@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adotmgz?style=social)](https://twitter.com/adotmgz) ° [![GitHub User's stars](https://img.shields.io/github/stars/AlainMgz?style=social)](https://github.com/AlainMgz)
 ***
-#### Studying Mathematics in Paris, software developer in the making...
+#### Studying Computer Science in Paris, software developer in the making...
 
 Senior Blockchain Engineer at [Outlaw.io](https://outlaw.io), BS Student at Sorbonne University. I truly believe that blockchain technology can change our world for the better. Cardano's peer-reviewed and scientific rigour makes it a prime candidate for implementing blockchain in various sectors where our current models are deprecated.
 
