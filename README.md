@@ -2,7 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adotmgz?style=social)](https://twitter.com/adotmgz) ° [![GitHub User's stars](https://img.shields.io/github/stars/AlainMgz?style=social)](https://github.com/AlainMgz)
 ***
-#### CEO & Co-Founder at Martify Labs, blockchain believer
+#### CEO & Co-Founder at Martify Labs
+
+Blockchain and crypto enthousiast
 
 
 ***
