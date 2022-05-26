@@ -2,15 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adotmgz?style=social)](https://twitter.com/adotmgz) ° [![GitHub User's stars](https://img.shields.io/github/stars/AlainMgz?style=social)](https://github.com/AlainMgz)
 ***
-#### Studying Computer Science in Paris, software developer in the making...
+#### CEO & Co-Founder at Martify Labs, blockchain believer
 
-Senior Blockchain Engineer at [Outlaw.io](https://outlaw.io), BS Student at Sorbonne University. I truly believe that blockchain technology can change our world for the better. Cardano's peer-reviewed and scientific rigour makes it a prime candidate for implementing blockchain in various sectors where our current models are deprecated.
-
-I'm also very interested in Python programming, it offers a wide range of uses (back-end development, AI, ML, Data Science, ...) with a simple syntax and a support on every platform. My main project is a blockchain coded entirely in Python, the Coniunctum Cryptocurrency.
-
-I also breifly played with web development and C++ programming, as you can see in my repositories (Yato Network is a web-app social media and ClassGenerator is a coding helper for C++). 
-
-As I continue my studies in Computer Science, I will do my best to improve my programming skills, especially in Networking and Blockchain technology.
 
 ***
 
