@@ -2,7 +2,7 @@
 
 [![GitHub User's stars](https://img.shields.io/github/stars/AlainMgz?style=social)](https://github.com/AlainMgz)
 ***
-#### Senior Smart Contract Developer at Emurgo/Moonstake
+#### -
 
 
 ***
