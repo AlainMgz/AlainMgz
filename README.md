@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">, I'm Alain Magazin, welcome to my Github Profile !
 
 [![GitHub User's stars](https://img.shields.io/github/stars/AlainMgz?style=social)](https://github.com/AlainMgz)
-#### Software Security Engineer Apprentice | Pursuing a Master's degree in Cybersecurity at Sorbonne University in Paris.
+#### Security Researcher
 
 
 ***
